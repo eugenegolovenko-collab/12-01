@@ -142,3 +142,5 @@ CREATE TABLE hr.employee_projects (
     PRIMARY KEY (employee_id, project_id)
 );
 ```
+
+Скриншот представлен выше, в Задании 1.
